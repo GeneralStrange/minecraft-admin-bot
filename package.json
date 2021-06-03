@@ -1,0 +1,14 @@
+{
+  "name": "minecraft-admin-bot",
+  "version": "1.0.0",
+  "description": "Minecraft Server Admin Bot",
+  "main": "index.js",
+  "author": "Nick Croucher <21318156+GeneralStrange@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "minecraft-server-util": "^3.5.1",
+    "rcon-srcds": "^2.0.1"
+  }
+}
